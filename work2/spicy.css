@@ -1,0 +1,34 @@
+.j{
+    background-color: black;
+}
+.o{
+    position: relative;
+    bottom: 500px;
+    left: 50px;
+    color: yellow;
+    font-size: large;
+    font-weight: 800;
+}
+.i{
+    position: relative;
+    bottom: 520px;
+    left: 90px;
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.z{
+    position: relative;
+    bottom: 750px;
+    left: 960px;
+    padding: px;
+    background-color: wheat;
+    border: 3px solid rgba(255, 0, 0, 0.861);
+    margin: 40px;
+    height: 260px;
+    width: 240px;
+    text-align: ;
+}
+#y{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

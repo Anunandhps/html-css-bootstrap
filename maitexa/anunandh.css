@@ -1,0 +1,18 @@
+#abcd{
+    color: darkgray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.abc{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #146C94 ;
+}
+.asd{
+    border-radius: 35px;
+    border:4px solid #4E6E81
+}
+#sm{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: saddlebrown;
+}

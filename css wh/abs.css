@@ -1,0 +1,47 @@
+.abs{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+    bottom: 100px;
+    left: 200px;
+
+height: 100px;    
+width: 100px;
+border: 1px;
+background-color: rgba(9, 9, 219, 0.865);
+}
+.abs2{
+    position: absolute;
+    top: 150px;
+    bottom: 100px;
+    left: 150px;
+    right: 200px;
+    height: 100px;
+
+width: 100px;
+border: 1px;
+background-color: rgba(255, 119, 0, 0.865);
+}
+.abs3{
+    position: absolute;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+    height: 100px;
+width: 100px;
+border: 1px;
+background-color: rgba(5, 4, 4, 0.865);
+}
+.abs4{
+    position: fixed;
+    top: 150px;
+    bottom: 100px;
+    left: 150px;
+    right: 200px;
+    height: 100px;
+
+width: 100px;
+border: 1px;
+background-color: rgba(255, 119, 0, 0.865);
+}

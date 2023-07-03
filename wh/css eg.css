@@ -1,0 +1,18 @@
+h1{
+ color: blue;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-style: italic;
+ font-weight: bolder;
+ text-decoration: solid;
+}
+p{
+    color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#abcd{
+    color: aqua;
+}
+.abc{
+    color: yellowgreen;
+}

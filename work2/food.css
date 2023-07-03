@@ -1,0 +1,32 @@
+.grid-container{
+    display: grid;
+   grid-template-columns: auto auto auto;
+    background-color: rgb(255, 255, 255);
+    border: 10px;
+    padding: 20px;
+    column-gap: 3px;
+}
+.grid-item{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    text-align: left;
+    background-color: darkred;
+   }
+   .grid-item2{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    text-align: left;
+    background-color: goldenrod;
+   }
+   .grid-item3{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    text-align: left;
+    background-color: violet;
+   }
+   #h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+   .p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }

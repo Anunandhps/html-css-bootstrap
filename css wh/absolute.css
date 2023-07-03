@@ -1,0 +1,20 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px;
+    background-color: rgba(255, 119, 0, 0.865);
+    }
+    .box{
+        height: 100px;
+    width: 100px;
+    border: 1px;
+    background-color: rgb(0, 128, 183);
+    }
+    .box3{
+        left: 180px;
+        height: 100px;
+    width: 100px;
+    border: 1px;
+    background-color: rgb(255, 0, 0);
+    }
+    
